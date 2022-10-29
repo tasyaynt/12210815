@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Tampil Data Karyawan</title>
-<link rel="stylesheet" type="text/css" href="<?php echo base_url () ?>desain/style.css">
+<link rel="stylesheet" type="text/css" href="<?php echo base_url () ?>desain/css/style.css">
 </head>
 <body>
     <center><h1 style="color:#ac3b61">Data Karyawan</h1></center>

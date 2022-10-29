@@ -39,6 +39,11 @@ input[type=text],input[type=password]:focus {
     color: #ac3b61;
 }
 
+select {
+    background-color: #edc7b7;
+    color: #ac3b61;
+}
+
 input[type=submit],input[type=button], input[type=reset] {
     background-color: #edc7b7;
     border: none;
